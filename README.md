@@ -1,4 +1,4 @@
-# @himenon/template-esm-js
+# @himenon/md2jira
 
 ## Release
 
@@ -6,4 +6,4 @@
 
 ## LICENCE
 
-[@Himenon/template-esm-js](https://github.com/Himenon/template-esm-js)・MIT
+[@Himenon/md2jira](https://github.com/Himenon/md2jira)・MIT
