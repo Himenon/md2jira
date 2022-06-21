@@ -17,7 +17,7 @@ pnpm install @himenon/md2jira
 ```ts
 import Md2jira from "@himenon/md2jira";
 
-const markdownText =  `
+const markdownText = `
 **[v1.0.0](http://example.com)**
 
 * feat: update new features (#1)
@@ -27,10 +27,9 @@ const markdownText =  `
 
 `;
 
-
 Md2jira.convert(markdownText);
 // *[v1.0.0|http://example.com]*
-// 
+//
 // * feat: update new features (#1)
 // * chore: update linter (#12)
 // * style: eslint format (#123)
